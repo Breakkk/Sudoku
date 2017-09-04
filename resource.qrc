@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>timg.jpg</file>
+        <file>label.png</file>
+        <file>timg (1).jpg</file>
+        <file>button.jpg</file>
+        <file>clock.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>label.png</file>
+        <file>timg (1).jpg</file>
+        <file>clock.png</file>
+        <file>clock1.png</file>
+        <file>huaji.png</file>
+        <file>huaji2.png</file>
+        <file>huaji3.png</file>
+        <file>lab.png</file>
+    </qresource>
+</RCC>
